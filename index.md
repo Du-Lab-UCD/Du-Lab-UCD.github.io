@@ -1,9 +1,15 @@
 ---
 ---
 
-# Du-Lab-UCD's Website
+# Du-Lab
 
-An engaging 1-3 sentence description of your lab.
+The Du Lab at UCD applies artificial intelligence (AI) to food engineering and biomanufacturing. Our research focuses on large language models (LLMs) and machine learning for bioactive compound discovery, predictive biomanufacturing, and data-driven bioprocess design.
+
+More broadly, we work at the interface of AI for Science (AI4Science) and experimental research, and actively seek collaborations that connect AI with wet-lab efforts in food chemistry, nutrition, food microbiology, and biochemistry to accelerate scientific discovery and translation.
+
+We welcome motivated researchers at all levels (undergraduate, MSc/PhD, and postdoctoral). Ideal backgrounds include (but are not limited to) machine learning, food chemistry, food microbiology, computational chemistry, mathematics, biochemistry, bioinformatics, and related fields.
+
+We are also open to collaboration with academic and industrial partners to advance AI-enabled discovery, design, and optimization across biochemical, biological, and engineering systems.
 
 {% include section.html %}
 
