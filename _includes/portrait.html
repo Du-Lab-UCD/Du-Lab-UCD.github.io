@@ -35,7 +35,13 @@
         {{ member.name }}
       </span>
     {% endif %}
-
+    
+    {% if member.role %}
+    <div class="center">
+      {{ member.role }}
+    </div>
+    {% endif %}
+    
     {% if member.description or type %}
       <span class="portrait-description">
         {{ member.description | default: type.description }}
