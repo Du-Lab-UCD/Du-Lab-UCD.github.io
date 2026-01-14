@@ -2,7 +2,6 @@
 name: Zhenjiao Du
 image: images/002.jpg
 group: pi
-role: principal-investigator
 affiliation: University College Dublin
 aliases:
   - Z. Du
