@@ -5,6 +5,6 @@
 
   # Du-Lab-UCD's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[du-lab-ucd.github.io](https://du-lab-ucd.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
